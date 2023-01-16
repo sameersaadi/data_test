@@ -4,34 +4,34 @@
     "type": "type1",
     "name": "Item A",
     "total": 4,
-    "descrpition": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
+    "descrpition": "laudantium enim quasi est quidem magnam voluptate ipsam eostempora quo necessitatibusdolor quam autem quasireiciendis et nam sapiente accusantium"
   },
   {
     "id": 2,
     "type": "type2",
     "name": "Item B",
     "total": 7,
-    "descrpition": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et"
+    "descrpition": "est natus enim nihil est dolore omnis voluptatem numquamet omnis occaecati quod ullam atoluptatem error expedita pariaturihil sint nostrum voluptatem reiciendis et"
   },
   {
     "id": 3,
     "type": "type2",
     "name": "Item C",
     "total": 4,
-    "descrpition": "quia molestiae reprehenderit quasi aspernatur\naut expedita occaecati aliquam eveniet laudantium\nomnis quibusdam delectus saepe quia accusamus maiores nam est\ncum et ducimus et vero voluptates excepturi deleniti ratione"
+    "descrpition": "quia molestiae reprehenderit quasi aspernaturaut expedita occaecati aliquam eveniet laudantiumomnis quibusdam delectus saepe quia accusamus maiores nam esum et ducimus et vero voluptates excepturi deleniti ratione"
   },
   {
     "id": 4,
     "type": "type1",
     "name": "Item D",
     "total": 13,
-    "descrpition": "non et atque\noccaecati deserunt quas accusantium unde odit nobis qui voluptatem\nquia voluptas consequuntur itaque dolor\net qui rerum deleniti ut occaecati"
+    "descrpition": "non et atquecaecati deserunt quas accusantium unde odit nobis qui voluptatemquia voluptas consequuntur itaque doloret qui rerum deleniti ut occaecati"
   },
   {
     "id": 5,
     "type": "type2",
     "name": "Item E",
     "total": 0,
-    "descrpition": "harum non quasi et ratione\ntempore iure ex voluptates in ratione\nharum architecto fugit inventore cupiditate\nvoluptates magni quo et"
+    "descrpition": "harum non quasi et rationempore iure ex voluptates in rationearum architecto fugit inventore cupiditatevoluptates magni quo et"
   }
 ]
