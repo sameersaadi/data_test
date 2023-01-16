@@ -3,35 +3,45 @@
     "id": 1,
     "type": "type1",
     "name": "Item A",
-    "total": 4,
+    "n": 0.65,
+    "h": 0.8,
+    "j": 0.4,
     "descrpition": "laudantium enim quasi est quidem magnam voluptate ipsam eostempora quo necessitatibusdolor quam autem quasireiciendis et nam sapiente accusantium"
   },
   {
     "id": 2,
     "type": "type2",
     "name": "Item B",
-    "total": 7,
+    "n": 0.85,
+    "h": 0.58,
+    "j": 0.74,
     "descrpition": "est natus enim nihil est dolore omnis voluptatem numquamet omnis occaecati quod ullam atoluptatem error expedita pariaturihil sint nostrum voluptatem reiciendis et"
   },
   {
     "id": 3,
     "type": "type2",
     "name": "Item C",
-    "total": 4,
+    "n": 0.45,
+    "h": 0.60,
+    "j": 0.75,
     "descrpition": "quia molestiae reprehenderit quasi aspernaturaut expedita occaecati aliquam eveniet laudantiumomnis quibusdam delectus saepe quia accusamus maiores nam esum et ducimus et vero voluptates excepturi deleniti ratione"
   },
   {
     "id": 4,
     "type": "type1",
     "name": "Item D",
-    "total": 13,
+    "n": 0.25,
+    "h": 0.40,
+    "j": 0.55,
     "descrpition": "non et atquecaecati deserunt quas accusantium unde odit nobis qui voluptatemquia voluptas consequuntur itaque doloret qui rerum deleniti ut occaecati"
   },
   {
     "id": 5,
     "type": "type2",
     "name": "Item E",
-    "total": 0,
+    "n": 0.85,
+    "h": 0.65,
+    "j": 0.6,
     "descrpition": "harum non quasi et rationempore iure ex voluptates in rationearum architecto fugit inventore cupiditatevoluptates magni quo et"
   }
 ]
