@@ -2,7 +2,7 @@
   {
     "id": 1,
     "type": "type1",
-    "name": "Item A",
+    "name": "Strawberry Fields Forever",
     "n": 0.65,
     "h": 0.8,
     "j": 0.4,
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "type": "type2",
-    "name": "Item B",
+    "name": "Yesterday",
     "n": 0.85,
     "h": 0.58,
     "j": 0.74,
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "type": "type2",
-    "name": "Item C",
+    "name": "Hey Jude",
     "n": 0.45,
     "h": 0.60,
     "j": 0.75,
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "type": "type1",
-    "name": "Item D",
+    "name": "Let it be",
     "n": 0.25,
     "h": 0.40,
     "j": 0.55,
@@ -38,10 +38,55 @@
   {
     "id": 5,
     "type": "type2",
-    "name": "Item E",
-    "n": 0.85,
+    "name": "All You Need Is Love",
+    "n": 0.6,
     "h": 0.65,
     "j": 0.6,
-    "descrpition": "harum non quasi et rationempore iure ex voluptates in rationearum architecto fugit inventore cupiditatevoluptates magni quo et"
+     "descrpition": "harum non quasi et rationempore iure ex voluptates in rationearum architecto fugit inventore cupiditatevoluptates magni quo et"
+  },
+  {
+    "id": 6,
+    "type": "type2",
+    "name": "I Want to Hold Your Hand",
+    "n": 0.3,
+    "h": 0.50,
+    "j": 0.75,
+     "descrpition": "harum non quasi et rationempore iure ex voluptates in rationearum architecto fugit inventore cupiditatevoluptates magni quo et"
+  },
+  {
+    "id": 8,
+    "type": "type2",
+    "name": "Come Together",
+    "n": 0.35,
+    "h": 0.55,
+    "j": 0.7,
+     "descrpition": "harum non quasi et rationempore iure ex voluptates in rationearum architecto fugit inventore cupiditatevoluptates magni quo et"
+  },
+  {
+    "id": 9,
+    "type": "type2",
+    "name": "While My Guitar Gently Weeps",
+    "n": 0.45,
+    "h": 0.65,
+    "j": 0.7,
+     "descrpition": "harum non quasi et rationempore iure ex voluptates in rationearum architecto fugit inventore cupiditatevoluptates magni quo et"
+  },
+  {
+    "id": 10,
+    "type": "type2",
+    "name": "Lucy in the Sky With Diamonds",
+    "n": 0.55,
+    "h": 0.35,
+    "j": 0.7,
+     "descrpition": "harum non quasi et rationempore iure ex voluptates in rationearum architecto fugit inventore cupiditatevoluptates magni quo et"
+  },
+  {
+    "id": 11,
+    "type": "type2",
+    "name": "You’ve Got to Hide Your Love Away",
+    "n": 0.45,
+    "h": 0.45,
+    "j": 0.55,
+     "descrpition": "harum non quasi et rationempore iure ex voluptates in rationearum architecto fugit inventore cupiditatevoluptates magni quo et"
   }
 ]
